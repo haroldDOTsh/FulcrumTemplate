@@ -1,0 +1,5 @@
+name: FulcrumTemplate
+version: '0.0.1'
+main: sh.harold.fulcrum.template.FulcrumTemplate
+api-version: '1.21'
+depend: [Fulcrum]
