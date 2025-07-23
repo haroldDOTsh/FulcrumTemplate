@@ -23,11 +23,11 @@ repositories {
 
 dependencies {
     paperweightDevelopmentBundle("io.papermc.paper:dev-bundle:1.21.7-R0.1-SNAPSHOT")
-    implementation("com.github.haroldDOTsh.fulcrum:data-api:1.1.0")
-    implementation("com.github.haroldDOTsh.fulcrum:message-api:1.1.0")
-    implementation("com.github.haroldDOTsh.fulcrum:menu-api:1.1.0")
-    implementation("com.github.haroldDOTsh.fulcrum:rank-api:1.1.0")
-    implementation("com.github.haroldDOTsh.fulcrum:module-api:1.1.0")
+    implementation("com.github.haroldDOTsh.fulcrum:data-api:1.2.0")
+    implementation("com.github.haroldDOTsh.fulcrum:message-api:1.2.0")
+    implementation("com.github.haroldDOTsh.fulcrum:menu-api:1.2.0")
+    implementation("com.github.haroldDOTsh.fulcrum:rank-api:1.2.0")
+    implementation("com.github.haroldDOTsh.fulcrum:module-api:1.2.0")
 }
 
 tasks {
